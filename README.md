@@ -2,6 +2,8 @@
 
 <!--
 **renpy15/renpy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/renpy15/renpy15/assets/129077419/d8e9e78f-1cbc-4f18-80e9-c5e8ec8fcb37)
+
 
 Here are some ideas to get you started:
 
