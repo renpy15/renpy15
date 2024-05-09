@@ -6,4 +6,4 @@ Hi!
 - UI Designer
 - I love my girlfriend Amy💕
 
-![:name](https://count.getloli.com/get/@:name?theme=gelbooru-h)
+![:name](https://count.getloli.com/get/@:name?theme=rule34)
