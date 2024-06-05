@@ -2,7 +2,7 @@
 Hi!
 
 ## 🚀 About Me
-- Still Learning Luau And Python
+- Still Learning Luau, C#
 - UI Designer
 - I love my girlfriend Amy💕
 
